@@ -50,7 +50,7 @@ const Layout = ({ children }) => {
         <img src="https://cdn3657.cdn4s7.io.vn/media/logo/logo-vietnam-tickets.webp" alt="VietnamTickets" className="h-16" />
         <nav className="flex gap-8 text-lg font-medium">
           <a href="/" className="text-[#1146d6]">TRANG CHỦ</a>
-          <a href="ticket">KIỂM TRA VÉ MÁY BAY ĐÃ ĐẶT</a>
+          <a href="/ticket">KIỂM TRA VÉ MÁY BAY ĐÃ ĐẶT</a>
           
         </nav>
         <Button type="primary" danger className="ml-auto px-6 font-bold">
